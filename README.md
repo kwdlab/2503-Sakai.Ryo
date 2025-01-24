@@ -7,8 +7,8 @@ This is a Java web application built using Spring. Running the application and s
 ・A large number of characters are displayed on the “http://localhost:8080/secret” page, but this is to reduce the page size to approximately 2 MB.
 
 # Requirements
-jdk-17
-org.springframework.boot' version '3.3.4'
+jdk-17,
+org.springframework.boot' version '3.3.4',
 io.spring.dependency-management' version '1.1.6'
 
 # Install/Usage
