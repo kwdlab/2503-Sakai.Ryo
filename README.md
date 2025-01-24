@@ -12,11 +12,11 @@ org.springframework.boot' version '3.3.4'
 io.spring.dependency-management' version '1.1.6'
 
 # Install/Usage
-プログラムのインストール法や使い方を書く。
+https://github.com/kwdlab-SAKAI-Ryo/2503-Sakai.Ryo.git
 After installation, you can go to /securitytest on the command prompt and run it by “gradlew bootRun”.
 
 # Author
-Ryo Sakai
+Sakai.Ryo
 
 # References
 ・土岐孝平.プロになるためのSpring入門―ゼロからの開発力養成講座.技術評論社出版,2023,384p.
