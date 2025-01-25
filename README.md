@@ -12,7 +12,7 @@ org.springframework.boot' version '3.3.4',
 io.spring.dependency-management' version '1.1.6'
 
 # Install/Usage
-https://github.com/kwdlab-SAKAI-Ryo/2503-Sakai.Ryo.git
+git clone https://github.com/kwdlab-SAKAI-Ryo/2503-Sakai.Ryo.git
 After installation, you can go to /securitytest on the command prompt and run it by “gradlew bootRun”.
 
 # Author
